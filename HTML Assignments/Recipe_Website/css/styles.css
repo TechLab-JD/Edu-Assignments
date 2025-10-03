@@ -1,0 +1,50 @@
+body {
+    background-color: #2c2727;
+}
+
+h1 {
+    color: #919191;
+    text-align: center;
+}
+
+img {
+    border: 1px solid #000;
+    margin: 20px;
+    width: 360px;
+    height: 360px;
+}
+
+h2 {
+    color: #919191;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#description {
+    color: #919191;
+    padding: 1%;
+    border: #613811 solid 5px;
+    justify-self: center;
+    font-family: sans-serif;
+}
+
+.ingredients-section, .steps-section {
+    color: #919191;
+    padding: 1%;
+    border: #613811 solid 5px;
+    background-color: #1b1818;
+    margin: 2%;
+}
+
+.ingredients-section, .steps-section li {
+    color: #613811;
+}
+
+a {
+    color: #d82f2f;
+    text-decoration: none;
+}
+
+#more-recipes ul {
+    list-style-type:none;
+}
+
